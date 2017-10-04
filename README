@@ -1,0 +1,10 @@
+EECS 293
+Author: Andrew Hwang
+
+AirVille is set at the check-in counters in an airport. 
+The player manages the counters and airline agents who 
+are responsible for checking in passengers into flights. 
+The player will get points and rewards as he checks in 
+passengers. Faster progress in the game depends on the 
+efficiency of the check-in process (and on how much help 
+the player is willing to buy from the game store).

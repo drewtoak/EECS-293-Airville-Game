@@ -8,3 +8,7 @@ The player will get points and rewards as he checks in
 passengers. Faster progress in the game depends on the 
 efficiency of the check-in process (and on how much help 
 the player is willing to buy from the game store).
+
+**NOTE**
+No GUI was implemented, due to the purpose of the project
+was to implement and design the architecture of the game.
